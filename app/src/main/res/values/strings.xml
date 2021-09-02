@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Virnect 샘플 간단 도서검색</string>
+
+    <string name="search">검색</string>
+    <string name="inputtext">검색어를 입력하세요</string>
+    <string name="author">저자 : %s</string>
+    <string name="price">가격 : %s 원</string>
+    <string name="discount">최저가 : %s 원</string>
+    <string name="publishier">출판사 : %s 원</string>
+    <string name="pubdate">출시일 : %s </string>
+    <string name="isbn">ISBN : %s</string>
+    <string name="desc">책 설명 : %s</string>
+
+
+</resources>
